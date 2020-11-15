@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    ifstream fin("input.txt");
+    ifstream fin("../data/P11_input.txt");
 
     string data;
     int count = 0;

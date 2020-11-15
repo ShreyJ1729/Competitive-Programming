@@ -37,7 +37,7 @@ string get_min_name(vector<string> names)
 
 int main()
 {
-    ifstream fin("input.txt");
+    ifstream fin("../data/P22_input.txt");
 
     string name;
     vector<string> names;

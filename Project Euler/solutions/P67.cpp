@@ -25,7 +25,7 @@ void print_array(int (&arr) [triangle_size][triangle_size])
 
 int main()
 {
-    ifstream fin("input.txt");
+    ifstream fin("../data/P67_input.txt");
 
     int num;
     int row = 0;

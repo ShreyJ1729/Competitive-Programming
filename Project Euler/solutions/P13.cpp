@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    ifstream fin("input.txt");
+    ifstream fin("../data/P13_input.txt");
     unsigned long long int total = 0;
 
     string line;

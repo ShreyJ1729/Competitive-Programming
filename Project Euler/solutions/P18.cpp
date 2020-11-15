@@ -31,7 +31,7 @@ void print_array(int (&arr) [15][15])
 
 int main()
 {
-    ifstream fin("input.txt");
+    ifstream fin("../data/P18_input.txt");
 
     int num;
     int row = 0;
