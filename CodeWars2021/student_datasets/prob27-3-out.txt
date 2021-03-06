@@ -1,0 +1,71 @@
+4 E
+2 W
+1 N
+JUMP
+2 W
+JUMP
+3 S
+4 E
+2 W
+JUMP
+3 S
+1 N
+JUMP
+2 W
+4 E
+2 W
+1 N
+JUMP
+3 S
+JUMP
+3 S
+4 E
+2 W
+4 E
+3 S
+4 E
+3 S
+JUMP
+3 S
+4 E
+2 W
+4 E
+2 W
+4 E
+3 S
+1 N
+4 E
+3 S
+JUMP
+2 W
+JUMP
+2 W
+1 N
+JUMP
+3 S
+4 E
+3 S
+1 N
+4 E
+2 W
+JUMP
+3 S
+4 E
+3 S
+JUMP
+2 W
+4 E
+2 W
+JUMP
+3 S
+4 E
+2 W
+JUMP
+2 W
+4 E
+2 W
+JUMP
+2 W
+JUMP
+2 W
+JUMP

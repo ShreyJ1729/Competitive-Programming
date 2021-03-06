@@ -1,0 +1,4 @@
+X WILL WIN IN 2 MOVES
+3 5 7
+3 6 9
+7 8 9

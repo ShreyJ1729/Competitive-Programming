@@ -1,0 +1,13 @@
+3332232232
+2444431432
+2322132431
+1344442422
+2322333431
+2444412234
+3331333434
+2244442414
+3332212424
+4444333421
+
+#JUDGE_NOTE: Same as student data 7, rotated 180 degrees
+Just to make sure your program is not affected by the order the data is presented.
