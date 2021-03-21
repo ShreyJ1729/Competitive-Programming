@@ -5,7 +5,7 @@ class Mateo
 {
     public static void main(String[] args) throws FileNotFoundException
     {
-        File input = new File("./9.in");
+        File input = new File("./District Judge dat files/mateo.dat");
         Scanner scanner = new Scanner(new File(input.getAbsolutePath()));
         while (scanner.hasNext())
         {
